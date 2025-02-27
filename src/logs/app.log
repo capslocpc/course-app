@@ -1,0 +1,102 @@
+2025-02-27 17:23:06.561 | INFO     | __main__:main:57 - Starting the application
+2025-02-27 17:23:06.562 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-27 17:23:06.562 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-27 17:23:06.566 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-27 17:23:06.575 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-27 17:23:06.575 | INFO     | __main__:main:73 - Application finished
+2025-02-27 17:23:24.689 | INFO     | __main__:main:57 - Starting the application
+2025-02-27 17:23:24.690 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-27 17:23:24.690 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-27 17:23:24.693 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-27 17:23:24.699 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-27 17:23:24.699 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:10:34.756 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:10:34.757 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:10:34.757 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:10:34.761 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:10:34.767 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:10:34.768 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:15:54.601 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:15:54.601 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:15:54.601 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:15:54.604 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:15:54.610 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:15:54.610 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:33:41.185 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:33:41.185 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:33:41.185 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:33:41.188 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:33:41.194 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:33:41.194 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:34:01.957 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:34:01.957 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:34:01.957 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:34:01.960 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:34:01.966 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:34:01.966 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:37:35.091 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:37:35.092 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:37:35.092 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:37:35.095 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:37:35.100 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:37:35.100 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:40:49.191 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:40:49.191 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:40:49.191 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:40:49.194 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:40:49.200 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:40:49.200 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:42:25.450 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:42:25.450 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:42:25.450 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:42:25.452 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:42:25.458 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:42:25.458 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:46:06.883 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:46:06.883 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:46:06.883 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:46:06.886 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:46:06.892 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:46:06.892 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:50:13.270 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:50:13.271 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:50:13.271 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:50:13.274 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:50:13.280 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:50:13.280 | INFO     | __main__:main:73 - Application finished
+2025-02-28 09:53:46.893 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 09:53:46.893 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 09:53:46.894 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 09:53:46.896 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 09:53:46.902 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 09:53:46.902 | INFO     | __main__:main:73 - Application finished
+2025-02-28 10:21:47.686 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 10:21:47.686 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 10:21:47.687 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 10:21:47.689 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 10:21:47.695 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 10:21:47.695 | INFO     | __main__:main:73 - Application finished
+2025-02-28 10:22:22.566 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 10:22:22.566 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 10:22:22.566 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 10:22:22.569 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 10:22:22.575 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 10:22:22.575 | INFO     | __main__:main:73 - Application finished
+2025-02-28 10:27:01.774 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 10:27:01.774 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 10:27:01.774 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 10:27:01.777 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 10:27:01.783 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 10:27:01.783 | INFO     | __main__:main:73 - Application finished
+2025-02-28 10:27:45.058 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 10:27:45.058 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 10:27:45.058 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 10:27:45.061 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 10:27:45.067 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 10:27:45.067 | INFO     | __main__:main:73 - Application finished
+2025-02-28 10:29:02.235 | INFO     | __main__:main:57 - Starting the application
+2025-02-28 10:29:02.236 | INFO     | model.model_service:load_model:47 - Check model existsrf_db_v1
+2025-02-28 10:29:02.236 | INFO     | model.model_service:load_model:60 - Model exists loading model rf_db_v1
+2025-02-28 10:29:02.239 | INFO     | model.model_service:predict:81 - Predicting with model rf_db_v1
+2025-02-28 10:29:02.245 | INFO     | __main__:main:72 - Prediction: [2079.05078717]
+2025-02-28 10:29:02.245 | INFO     | __main__:main:73 - Application finished

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "production"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+# readme = "README.md"  # Uncomment this if you have a README file
+packages = [{include = "src"}]  # Define package directory
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4.0"
+scikit-learn = ">=1.6.1,<2.0.0"
+pandas = ">=2.2.3,<3.0.0"
+pydantic-settings = ">=2.8.0,<3.0.0"
+loguru = ">=0.7.3,<0.8.0"
+sqlalchemy = ">=2.0.38,<3.0.0"
+wemake-python-styleguide = ">=1.0.0,<2.0.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
