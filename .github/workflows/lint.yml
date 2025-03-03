@@ -1,4 +1,4 @@
-# this is my first Github Actions workflow!
+# This is my first GitHub Actions workflow!
 
 name: Lint Workflow
 
@@ -16,11 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    
-    - name: Build Appliaction
-      uses: ./.github/action/build-application
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Lint with flake8
-      run: poetry run make check
+      - name: Build Application
+        uses: ./.github/actions/build-application
+
+      - name: Lint with flake8
+        run: poetry run make check
