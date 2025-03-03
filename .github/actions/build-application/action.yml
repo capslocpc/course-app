@@ -21,3 +21,5 @@ runs:
     run: |
       poetry install
       poetry run make install
+  shell: bash
+  
