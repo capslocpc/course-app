@@ -11,8 +11,6 @@ runs:
 
   - name: Set up Python
     uses: actions/setup-python@v5
-    with:
-      python-version: "3.10"
 
   - name: Install Poetry
     uses: snok/install-poetry@v1
@@ -22,4 +20,3 @@ runs:
       poetry install
       poetry run make install
   shell: bash
-  
