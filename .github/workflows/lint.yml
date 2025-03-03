@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v4
     
     - name: Build Appliaction
-      uses: ./.github/actions/build-application
+      uses: ./.github/action/build-application
 
     - name: Lint with flake8
       run: poetry run make check
